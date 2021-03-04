@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace GiocoPlus\OBSlot\Contract;
+namespace GiocoPlus\KP\Contract;
 /**
  * King Poker
  */
