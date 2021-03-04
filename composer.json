@@ -1,6 +1,6 @@
 {
-    "name": "gioco-plus/obslot-contract",
-    "description": "obslot Interface",
+    "name": "gioco-plus/kp-contract",
+    "description": "kp Interface",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "GiocoPlus\\OBSlot\\": "src/"
+            "GiocoPlus\\KP\\": "src/"
         }
     },
     "require": {}
