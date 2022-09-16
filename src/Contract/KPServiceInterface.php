@@ -26,9 +26,10 @@ interface KPServiceInterface
      * @param string $op_code
      * @param string $account
      * @param string $bet_id
+     * @param string $lang
      * @return mixed
      */
-    function gameDetail(string $op_code, string $account, string $bet_id);
+    function gameDetail(string $op_code, string $account, string $bet_id, string $lang);
 
     /**
      * 抓取遊戲紀錄
